@@ -2849,10 +2849,6 @@
     "@vuepress/types" "1.9.5"
     lodash.debounce "^4.0.8"
 
-"@vuepress/plugin-google-analytics@https://gitpkg.now.sh/EqualMa/vuepress/packages/@vuepress/plugin-google-analytics?feat/plugin-google-analytics-import-script-option":
-  version "1.3.1"
-  resolved "https://gitpkg.now.sh/EqualMa/vuepress/packages/@vuepress/plugin-google-analytics?feat/plugin-google-analytics-import-script-option#763627d2b9e29f62c8f7b9e023856f8864a64056"
-
 "@vuepress/plugin-last-updated@1.9.5":
   version "1.9.5"
   resolved "https://registry.yarnpkg.com/@vuepress/plugin-last-updated/-/plugin-last-updated-1.9.5.tgz#e0f8c3c1bac84fb7711936b3eadf2cc751bd868f"
